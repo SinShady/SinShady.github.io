@@ -31,7 +31,7 @@ body{
 
 /*---- About Page ----*/
 #about{
-    background-color: #83ceff;
+    background-color: #FFFFFF;
     padding-top: 3.5%;
     padding-bottom: 10%;
 }
@@ -62,7 +62,7 @@ body{
 
 /*---- Portfolio Section ----*/
 #portfolio{
-    background-color: #5592c7;
+    background-color: #d3d3d3;
     padding-top: 3%;
     padding-bottom: 5%;
 }
@@ -92,7 +92,7 @@ body{
 
 /*---- Contact Section ----*/
 #contact{
-    background-color: #b5c9e5;
+    background-color: #FFFFFF;
     padding-top: 3.5%;
     padding-bottom: 10%;
 }
