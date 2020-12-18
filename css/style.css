@@ -75,8 +75,8 @@ body{
 }
 
 .card-img-top{
+    object-fit: card-img-top;
     height: 40%;
-    width: 40%;
 }
 
 .project-column-line{
