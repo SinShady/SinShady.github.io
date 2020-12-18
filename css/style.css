@@ -75,7 +75,7 @@ body{
 }
 
 .card-img-top{
-    object-fit: card-img-top;
+    object-fit: cover;
     height: 40%;
 }
 
