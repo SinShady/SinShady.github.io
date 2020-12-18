@@ -62,12 +62,13 @@ body{
 
 /*---- Portfolio Section ----*/
 #portfolio{
-    background-color: #222222;
+    background-color: #343434;
     padding-top: 3%;
     padding-bottom: 5%;
 }
 
 .project-container{
+    background-color: #f5ebdc;
     border-radius: 25px;
     height: 100%;
     width: 90%;
@@ -90,7 +91,7 @@ body{
 
 .project-btn{
     width: 100%;
-    background-color: #f5ebdc;
+    background-color: #343434;
     border-color: #343434;
 }
 
